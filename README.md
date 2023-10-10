@@ -1,12 +1,10 @@
--👋 大家好，我是@YonderMa，目前我是中国复旦大学的大一学生。
--👀 我对计算机科学的探索很感兴趣，很抱歉我刚刚接触到这个领域，缺乏相关的知识。
--🌱 我目前正在学习C++编码的基本技能。
--💞️ 我希望在未来的ACM准备工作上进行合作。
--📫 联系方式：我的电子邮件地址是<timmyma41@gmail.com<。或者，你可以在Facebook上附上我，Tinmye Ma。
-如果您想给我宝贵的建议或指导，我真诚地希望与您沟通和合作。
-如果你和我一样是计算机科学的初学者，我希望你也能和我联系起来，我们一定会互相分享学习经验，这对我们的能力提高是有益的。
+-👋 Hello,everyone this is @YonderMa，currently I'm major in biomedical engineering,which comprises many electron courses,and I do think computer science skills are not only a usable tool for my major,but a valuable domain that can be used and explored in any aspect of our daily life.
+-👀 I'm interested in the Interdisciplinary Studies over Computer Science and Artificial Intelligence,Data Technology and Electronic Engineering.I'm sorry that I've just newly get contacted with the Computer Science so that I'm lack of much CS knowledge as a initial learner.
+-🌱 At present,I'm studying the basic skills of C++ coding.
+-💞️ Condition permitting,I hope you can share me some suggestions and study resources like tutorials,
+competition platform,and so on.
+-📫 I'm sincerely expected to get contact with every helper and longing for our collaboration in the future.My e-mail address <timmyma41@gmail.com<。alternatively，link to  me on Facebook,name:Tinmye Ma
 
+Best wishes for you.
 <!---
-YonderMa/YonderMa是an-0special ✨ 存储库，因为它的“README.md”(此文件)出现在您的GitHub配置文件中。
-您可以单击“预览”链接查看所做的更改。
 --->
